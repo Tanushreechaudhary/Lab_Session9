@@ -30,6 +30,9 @@ Data about Mid career Salary - https://www.payscale.com/ <br />
 Data about University Rankings - https://patch.com  <br />
 Data about MSIS skill set is taken from data shared by fellow classmates. <br />
 
+### Link to Jupyter notebook:
+https://github.com/Tanushreechaudhary/Lab_Session9/blob/master/LabSession_9_JupyterNotebook.ipynb
+
 ## Redesign: The key metrics are:
 ### 1. SCU MSIS graduates possess the perfect blend of technical and business skills!
 #### Selected Technical skills
