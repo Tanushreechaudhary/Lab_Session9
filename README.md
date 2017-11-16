@@ -4,7 +4,7 @@ This is a redesign version of lab session 6, where we developed an interactive v
 https://github.com/Tanushreechaudhary/Lab_Session6 <br />
 
 ## Lab 6 Visualization:
-
+![image1](https://user-images.githubusercontent.com/32077698/32917704-eb66ed46-cad4-11e7-8f9d-ab7443609123.png)
 
 ## Critique for the Visualization:
 The Visualization covers three metrics the four-year graduation rate, SCU graduates average salary, and percentage of students with GPA 3.75 or higher. In this lab session, we were supposed to develop an interactive visualization to help recruiters know why should they hire SCU students. But the visualization above is neither interactive nor it provides any valuable information that would be helpful from a recruiter's standpoint. Also, it only compares data about three universities and leaves out the other significant competitors.
@@ -32,19 +32,26 @@ Data about MSIS skill set is taken from data shared by fellow classmates. <br />
 
 ## Redesign: The key metrics are:
 ### 1. SCU MSIS graduates possess the perfect blend of technical and business skills!
+#### Selected Technical skills
+![image2](https://user-images.githubusercontent.com/32077698/32917705-eb8228fe-cad4-11e7-833c-6a0c321dea9f.png) 
 
-The visualization above shows a pie chart on the left, which on selection changes the graph as per the selection on the right side, making it interactive. When selected Technical, it displays all the technical skills acquired by MSIS SCU students and the number of people in it. Similarly, for business category, it displays skills that fall in business category. 
+#### Selected Business skills
+![image3](https://user-images.githubusercontent.com/32077698/32917706-eba30cb8-cad4-11e7-8b67-5be83006d0c4.png)
+
+The visualization above shows a pie chart on the left with two categories Technical and Business, upon selection of any one category, the graph on the right side changes, making it interactive. When selected Technical, it displays all the technical skills acquired by MSIS SCU students and the number of people in it. Similarly, for business category, it displays skills that fall in business category. 
 
 ### 2. How well SCU MSIS graduates are doing in their careers!
+![image4](https://user-images.githubusercontent.com/32077698/32917707-ebbf2f60-cad4-11e7-8b17-281084a235a7.png)
 
 The visualization shows that SCU MSIS graduates are earning better salaries in their mid-career as compared to other universities in the same area. This clearly gives audience an idea how SCU students are progressing quickly in their careers. One important reason behind this could be the curriculum designed for the students. At SCU, coursework is project-based, connecting learning to actual challenges in the field and the company will not have to spend extra money providing them training because they already are good with technology and have the required skillset.
 
 ### 3. SCU, the second best university in CA!
+![image5](https://user-images.githubusercontent.com/32077698/32917708-ebe4ba28-cad4-11e7-8a71-450a378291a7.png)
 
 I have used university rankings metrics which shows after Stanford University, SCU is the second best university offering MSIS in CA. I have used text tables because that is the best way to show the rankings instead of using bar charts or pie charts. The reason behind this ranking is greatly designed curriculum that offers the best to the students looking for undergraduate or graduate programs. Also, the acceptance rate is low at SCU and they require a high GRE score to admit students, which shows the university is very selective.
 
 ## Link to cognitive walkthrough for Recruiters(Story): <br />
-
+https://public.tableau.com/profile/tanushree3514#!/vizhome/AcognitivewalkthroughaboutMSISSCUforRecruiters/MSISDashboard
 
 ### Reason: Why I chose Story?
 I wanted to present a sequence of visualizations that convey the message to the audience why they should hire students from SCU? I found it to be a better way to make an interactive dashboard and through story points we can highlight the main features of the worksheet in a narrative way. If I had used a dashboard, it would have been too crowded to display all information on one screen.
