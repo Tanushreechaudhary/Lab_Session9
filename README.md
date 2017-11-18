@@ -60,7 +60,7 @@ https://public.tableau.com/profile/tanushree3514#!/vizhome/Acognitivewalkthrough
 I wanted to present a sequence of visualizations that convey the message to the audience why they should hire students from SCU? I found it to be a better way to make an interactive dashboard and through story points we can highlight the main features of the worksheet in a narrative way. If I had used a dashboard, it would have been too crowded to display all information on one screen.
 
 ## Conclusion:
-Students at SCU have a perfect blend of technical and business skills like Tableau, Java, C, Project Management, Business Intelligence which are all the new age technology and are in high demand. Being ranked 2nd among the top universities in CA as per the academic excellence, it has a cutting edge curriculum that helps students to stand out in the crowd and progess more in their career. 
+Students at SCU have a perfect blend of technical and business skills like Tableau, Java, C, Project Management, Business Intelligence which are all the new age technology and are in high demand. Being ranked 2nd among the top universities in CA as per the academic excellence, it has a cutting edge curriculum that helps students to stand out in the crowd and progress more in their career. 
 
 ### References:
 https://insights.dice.com/2017/10/18/recruiters-managers-fear-hiring/ <br />
