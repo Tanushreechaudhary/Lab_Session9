@@ -54,7 +54,7 @@ The visualization shows that SCU MSIS graduates are earning better salaries in t
 I have used university rankings metrics which shows after Stanford University, SCU is the second best university offering MSIS in CA. I have used text tables because that is the best way to show the rankings instead of using bar charts or pie charts. The reason behind this ranking is greatly designed curriculum that offers the best to the students looking for undergraduate or graduate programs. Also, the acceptance rate is low at SCU and they require a high GRE score to admit students, which shows the university is very selective.
 
 ### Integrated Metrics
-![image6](https://user-images.githubusercontent.com/32077698/32983744-82c306dc-cc4e-11e7-82e0-5ddaad5404b8.png)
+![image6](https://user-images.githubusercontent.com/32077698/32984115-bbbe698a-cc54-11e7-9395-02bee8151419.png)
 
 As we all know, Stanford is the best university in CA, but Santa Clar University being so close to it in terms of Ranking and mid career salary is an excellent achievement. Stanford Graduates are earning $144,000 and SCU graduates are earning $140,000, which is so close. Also, if we compare the rankings, Stanford is the first one and SCU is the second best! <br />
 I have used a scattered plot to show the integrated metrics for Rankings and Mid career salary, also I have put a trend line that clearly shows that Santa Clara is among the top universities.
@@ -69,7 +69,7 @@ I wanted to present a sequence of visualizations that convey the message to the 
 Students at SCU have a perfect blend of technical and business skills like Tableau, Java, C, Project Management, Business Intelligence which are all the new age technology and are in high demand. Being ranked 2nd among the top universities in CA as per the academic excellence, it has a cutting edge curriculum that helps students to stand out in the crowd and progress more in their career. 
 
 ## RoadMap for future enhancements:
-For the first story point about technical and business skills, can use a bar chart that displays the two categories, since the skills listed on x-axis like Java, SQL etc do not really represent a scale. Also after this, I can squeeze in the ranking and mid career salary worksheet (the second story point) in the same dashboard to satisfy the "Eye beats memory" rule.
+For the first story point about technical and business skills, can use a bar chart that displays the two categories, since the skills listed on x-axis like Java, SQL etc do not really represent a scale. In the second story point about rankings and mid career salary, I can just squeeze the x-axis scale to take care of the data-viz ratio and then put these two into the same dashboard to satisfy the "Eye beats memory" rule.
 
 ### References:
 https://insights.dice.com/2017/10/18/recruiters-managers-fear-hiring/ <br />
